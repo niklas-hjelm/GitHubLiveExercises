@@ -1,0 +1,6 @@
+@GitHubLiveExercises.API_HostAddress = http://localhost:5064
+
+GET {{GitHubLiveExercises.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
