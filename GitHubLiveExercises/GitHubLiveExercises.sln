@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHubLiveExercises.UI", "GitHubLiveExercises.UI\GitHubLiveExercises.UI.csproj", "{1E7D1C28-FFE0-47AD-B96F-D6E96C5B6887}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubLiveExercises.API", "GitHubLiveExercises.API\GitHubLiveExercises.API.csproj", "{1F89095E-D536-4D42-BB73-ACB0A457DEE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3F1794EB-BCF9-4FD1-A01D-ED574DE1E033}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubLiveExercises.Common", "GitHubLiveExercises.Common\GitHubLiveExercises.Common.csproj", "{D05C2351-3059-42D2-AD3C-409BD6F30F72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{1F89095E-D536-4D42-BB73-ACB0A457DEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F89095E-D536-4D42-BB73-ACB0A457DEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F89095E-D536-4D42-BB73-ACB0A457DEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1794EB-BCF9-4FD1-A01D-ED574DE1E033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1794EB-BCF9-4FD1-A01D-ED574DE1E033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1794EB-BCF9-4FD1-A01D-ED574DE1E033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1794EB-BCF9-4FD1-A01D-ED574DE1E033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05C2351-3059-42D2-AD3C-409BD6F30F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05C2351-3059-42D2-AD3C-409BD6F30F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05C2351-3059-42D2-AD3C-409BD6F30F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05C2351-3059-42D2-AD3C-409BD6F30F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
